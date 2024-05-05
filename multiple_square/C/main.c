@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Multiple square
+/* Multiple square */
 static double mul_square(double a, long n);
 
 int main(void)
