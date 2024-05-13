@@ -1,4 +1,4 @@
-main
+mul_square
 *.o
 *.hi
 *.out

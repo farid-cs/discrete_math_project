@@ -1,3 +1,3 @@
-main:main.c
+mul_square:mul_square.c
 clean:
-	rm main
+	rm mul_square
